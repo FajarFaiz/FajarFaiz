@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Fajar Faiz 👋
 
-<!--
-**FajarFaiz/FajarFaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Cybersecurity Analyst & Defensive Scripting Engineer** currently building and auditing secure 
+infrastructure environments. I specialize in host-based perimeter defenses, automated application vulnerability 
+assessment, and lower-level network packet forensics.
 
-Here are some ideas to get you started:
+### Technical Skill Matrix
+**Defensive  Engineering:** Host-Based Firewalls (UFW), Hardened System Credentials, Port Security
+**Network Forensics & Auditing:** Wireshark Packet Analysis, Display Filtering (DNS,HTTP) Interface Troubleshooting
+**Application Security:**Automated Vulnerability Scanning (OWASP ZAP), Docker Container Sandboxing, SQLi Bypasses
+**Scripting & Automation:**Python 3 (Log Analysis & Pattern-Matching Security Scripts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlighted Security Code projects
+
