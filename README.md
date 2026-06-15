@@ -18,14 +18,11 @@ An aspiring **Cybersecurity Analyst & Defensive Scripting Engineer** currently b
 An automated, lightweight Python script designed to parse system authorization logs (`auth.log`), look for specific authentication status signatures (`FAILED`), and instantly trigger console alert metrics tracking brute-force events.
 - *Skills:* Python 3, File Handling, String Pattern Recognition, Automation
 
-####  [Web-Application-Security-Audits](https://github.com)
-Documentation and structural logs from active active-attack vulnerability scans executed using OWASP ZAP against containerized web environments, focusing on proxy path optimizations and port conflict overrides.
-- *Skills:* OWASP ZAP, Docker, Linux Networking, Vulnerability Diagnostics
 
 ---
 
 ### 📈 Let's Connect!
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com) 🌐
+- **LinkedIn:** [Fajar Faiz](https://linkedin.com) 🌐
 - **Current Role:** Cybersecurity Intern 💻
 -
 
