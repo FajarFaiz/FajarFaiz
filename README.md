@@ -18,6 +18,11 @@ An aspiring **Cybersecurity Analyst & Defensive Scripting Engineer** currently b
 An automated, lightweight Python script designed to parse system authorization logs (`auth.log`), look for specific authentication status signatures (`FAILED`), and instantly trigger console alert metrics tracking brute-force events.
 - *Skills:* Python 3, File Handling, String Pattern Recognition, Automation
 
+ #### [Password-Strength-Checker](https://github.com/FajarFaiz/password_strength_checker)
+An interactive, lightweight Python script designed to enforce Identity & Access Management (IAM) standards by evaluating password complexity against industry security baselines in real-time.
+- *Skills:* Python 3, Regular Expressions (`re`), Input Validation, Defensive Programming
+
+
 
 ---
 
