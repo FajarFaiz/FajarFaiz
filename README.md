@@ -22,6 +22,11 @@ An automated, lightweight Python script designed to parse system authorization l
 An interactive, lightweight Python script designed to enforce Identity & Access Management (IAM) standards by evaluating password complexity against industry security baselines in real-time.
 - *Skills:* Python 3, Regular Expressions (`re`), Input Validation, Defensive Programming
 
+- #### [Caesar-Cipher-Tool](https://github.com)
+An interactive, lightweight Python script designed to demonstrate foundational cryptography principles by executing deterministic character shifts and bidirectional data transformation.
+- *Skills:* Python 3, Character Encoding (`ord`/`chr`), Boundary Constraint Handling, Input Validation, Defensive Programming
+
+
 
 
 ---
