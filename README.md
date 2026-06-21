@@ -22,10 +22,12 @@ An automated, lightweight Python script designed to parse system authorization l
 An interactive, lightweight Python script designed to enforce Identity & Access Management (IAM) standards by evaluating password complexity against industry security baselines in real-time.
 - *Skills:* Python 3, Regular Expressions (`re`), Input Validation, Defensive Programming
 
--#### [Caesar-Cipher-Tool](https://github.com)
+#### [Caesar-Cipher-Tool](https://github.com/FajarFaiz/Caeser_Cipher-Encryption-Decryption-)
 An interactive, lightweight Python script designed to demonstrate foundational cryptography principles by executing deterministic character shifts and bidirectional data transformation.
 - *Skills:* Python 3, Character Encoding (`ord`/`chr`), Boundary Constraint Handling, Input Validation, Defensive Programming
-- 
+
+#### Keyboard-Event-Monitor(https://github.com/FajarFaiz/keylogger)
+An asynchronous Python utility designed to intercept hardware input streams, map virtual key tokens into clean typography layouts, and persist text sequences locally.Skills: Python 3, Event-Driven Programming (pynput), Asynchronous Thread Management, Data Normalization, Defensive File Handling
 
 
 
